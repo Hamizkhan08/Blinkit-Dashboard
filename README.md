@@ -6,7 +6,10 @@ This project delivers a robust, interactive Power BI dashboard designed to provi
 
 ## Key Deliverables & Insights
 
-The dashboard tracks critical KPIs, including **Total Sales ($1.20M)**, **Average Sales ($141)**, **Item Volume (8523 units)**, and an **Average Customer Rating (3.9/5)**.
+The dashboard tracks critical KPIs, including **Total Sales ($1.20M)**, 
+**Average Sales ($141)**,
+**Item Volume (8523 units)**,
+and an **Average Customer Rating (3.9/5)**.
 
 **Core Insights:**
 * Confirmed strong overall revenue performance (exceeding \$1M in Total Sales).
